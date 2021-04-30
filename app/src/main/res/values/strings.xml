@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Latihan(Latihan2)</string>
+    <string-array name="Spinner_items">
+        <item>Blood Type</item>
+        <item>Blood Type2</item>
+        <item>Blood Type3</item>
+    </string-array>
+
+    <string-array name="Spinner_items2">
+        <item>Reshus</item>
+        <item>Reshus2</item>
+        <item>Reshus3</item>
+    </string-array>
+
+    <string-array name="Spinner_items3">
+        <item>Job</item>
+        <item>Job2</item>
+        <item>Job3</item>
+    </string-array>
+    <string name="title_activity_register">Register</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_almost">Almost</string>
+    <string name="title_activity_verify">Verify</string>
+    <string name="title_activity_home">Home</string>
+</resources>
